@@ -1,0 +1,15 @@
+# Local files and generated artifacts
+.git/
+.next/
+.preview/
+node_modules/
+.env
+.env.*
+*.tsbuildinfo
+npm-debug.log*
+
+# Verification and documentation stay in the local workspace
+tests/
+docs/
+playwright.config.ts
+README.md
