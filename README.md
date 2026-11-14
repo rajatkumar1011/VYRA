@@ -8,7 +8,7 @@
 [![React 19](https://img.shields.io/badge/React-19-149ECA?style=flat-square&logo=react&logoColor=white)](package.json)
 [![TypeScript 5](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white)](tsconfig.json)
 
-**[Open the live demo](https://vyra-gnani.vercel.app)** · [Quick start](#quick-start) · [Architecture](#architecture) · [Testing](#testing-and-verification) · [Deployment guide](docs/DEPLOYMENT.md)
+**[Open the live demonstration video!]([https://vyra-gnani.vercel.app](https://drive.google.com/file/d/1uGv_Z2SJRUE9sYwRYcI0Mgv-rZMB5KzC/view?usp=sharing))** · [Quick start](#quick-start) · [Architecture](#architecture) · [Testing](#testing-and-verification) · [Deployment guide](docs/DEPLOYMENT.md)
 
 VYRA is a working grocery commerce demo for people who prefer to describe what they need in **Hindi, English, or Hinglish**. A shopper can speak, type, or browse the catalog; VYRA builds a basket with validated quantities and catalog prices. After the shopper reviews and confirms the order, a shopkeeper workspace tracks it from **Received → Packing → Ready**.
 
